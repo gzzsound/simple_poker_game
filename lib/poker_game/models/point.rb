@@ -16,9 +16,7 @@ module Models
     def get_similar_cards(number_of_similar_cards=2)
       catch :found do
         @grouped_cards.values.each do |cards|
-          if cards.count == number_of_similar_cards
-            throw :found, cards
-          end
+          throw :found, cards if cards.count == number_of_similar_cards
         end
         nil
       end
