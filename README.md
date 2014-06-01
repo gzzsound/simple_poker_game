@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/gzzsound/simple_poker_game.svg?branch=master)](https://travis-ci.org/gzzsound/simple_poker_game)
+[![Code Climate](https://codeclimate.com/github/gzzsound/simple_poker_game.png)](https://codeclimate.com/github/gzzsound/simple_poker_game)
+[![Code Climate](https://codeclimate.com/github/gzzsound/simple_poker_game/coverage.png)](https://codeclimate.com/github/gzzsound/simple_poker_game)
 
 # PokerHands
 
